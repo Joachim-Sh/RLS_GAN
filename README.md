@@ -1,4 +1,4 @@
-Leverage Score Sampling for Complete ModeCoverage in Generative Adversarial Networks
+#Leverage Score Sampling for Complete ModeCoverage in Generative Adversarial Networks
 
 Code, paper and Supplementary Material accompanying the paper Leverage Score Sampling for Complete ModeCoverage in Generative Adversarial Networks: https://arxiv.org/abs/2104.02373 The demo is available in Matlab.
 
